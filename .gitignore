@@ -1,0 +1,5 @@
+build
+PythonWorkDir
+**/*.pyc
+**/__init__.py
+.ssh
